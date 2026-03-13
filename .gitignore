@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Angular build
+dist/
+
+# .NET build files
+bin/
+obj/
+
+# Mac files
+.DS_Store
+
+# Environment files
+.env
