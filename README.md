@@ -29,23 +29,6 @@ Features
 
 ---
 
-Project Structure:
-
-Student-Registration-System
-│
-├── StudentAPI              #Backend
-│   ├── Controllers
-│   ├── Models
-│   ├── Data
-│   └── students.db
-│
-└── student-frontend        #Frontend
-    ├── src
-    ├── app
-    └── components
-
----
-
 How to Run the Project:
 
 a) For Running the Backend (.NET API)
@@ -70,18 +53,5 @@ ng serve
 
 4. Open the application in browser:
 http://localhost:4200
-
----
-
-Application Flow:
-Angular Form
-      ↓
-HTTP POST Request
-      ↓
-ASP.NET Core Web API
-      ↓
-Entity Framework Core
-      ↓
-SQLite Database
 
 ---
